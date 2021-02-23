@@ -1,7 +1,7 @@
 # TP Angular JXC : TypeScript & HTML
 
 ## Auteurs : 
-- Leslie **Amani**
+- Leslie **AMANI**
 - Dackory **DAYORO**
 **ESIR 3 op SI**
 # Objectif
